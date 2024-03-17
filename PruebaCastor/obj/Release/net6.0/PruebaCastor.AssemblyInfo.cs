@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaCastor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2b26432370d3ea8a06e56478a905944171b829d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaCastor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaCastor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

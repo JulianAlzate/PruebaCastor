@@ -28,3 +28,4 @@ E:\Downloads\Julian\castor\Prueba\PruebaCastor\PruebaCastor\obj\Release\net6.0\r
 E:\Downloads\Julian\castor\Prueba\PruebaCastor\PruebaCastor\obj\Release\net6.0\PruebaCastor.pdb
 E:\Downloads\Julian\castor\Prueba\PruebaCastor\PruebaCastor\obj\Release\net6.0\PruebaCastor.genruntimeconfig.cache
 E:\Downloads\Julian\castor\Prueba\PruebaCastor\PruebaCastor\obj\Release\net6.0\ref\PruebaCastor.dll
+E:\Downloads\Julian\castor\Prueba\PruebaCastor\PruebaCastor\obj\Release\net6.0\PruebaCastor.sourcelink.json

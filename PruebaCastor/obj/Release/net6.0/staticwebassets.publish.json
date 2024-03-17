@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B2APcmmRwJE3PNKWV78eiSV0DgUPvZWDPBMTn8/C4yY=",
+  "Hash": "uol07cyimFLbj+uqS68EBclDZ3428k58G9Esqu4iG30=",
   "Source": "PruebaCastor",
   "BasePath": "_content/PruebaCastor",
   "Mode": "Default",
@@ -2067,25 +2067,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Scripts\\Detalle.js"
-    },
-    {
-      "Identity": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\Scripts\\DTO\\Album.js",
-      "SourceId": "PruebaCastor",
-      "SourceType": "Discovered",
-      "ContentRoot": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\",
-      "BasePath": "_content/PruebaCastor",
-      "RelativePath": "Scripts/DTO/Album.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Scripts\\DTO\\Album.js"
     },
     {
       "Identity": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\Scripts\\Listar.js",

@@ -30,7 +30,6 @@ function showResults(results) {
         accordionBody.classList.add('accordion-body');
 
         results[key].items.forEach(result => {
-            debugger;
             var objetoDataSend = {};
 
             if (result.type.toLowerCase() == 'album') {
@@ -43,7 +42,7 @@ function showResults(results) {
                 };
             }
             if (result.type.toLowerCase() == 'artist') {
-                 objetoDataSend = {
+                objetoDataSend = {
                     Nombre: result.name,
                     Genero: result.genres,
                     Seguidores: result.followers,
@@ -67,16 +66,16 @@ function showResults(results) {
             let cardItembody = document.createElement('div');
             cardItembody.classList.add('card-body');
 
-      
+
             let jsonData = JSON.stringify(objetoDataSend);
 
-     
+
             var encrypted = CryptoJS.AES.encrypt(jsonData, 'Castor2024*..');
             var encryptedString = encrypted.toString();
             cardItemDv.setAttribute('data-custom-data', encryptedString);
             cardItembody.innerHTML = result.name;
 
-     
+
             let buttonElement = document.createElement('button');
             buttonElement.innerText = "Ver detalle";
             buttonElement.classList.add('btn', 'btn-info');

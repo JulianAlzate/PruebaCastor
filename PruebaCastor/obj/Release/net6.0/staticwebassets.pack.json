@@ -185,10 +185,6 @@
       "PackagePath": "staticwebassets\\Scripts\\Busqueda.js"
     },
     {
-      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\Scripts\\DTO\\Album.js",
-      "PackagePath": "staticwebassets\\Scripts\\DTO\\Album.js"
-    },
-    {
       "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\Scripts\\Detalle.js",
       "PackagePath": "staticwebassets\\Scripts\\Detalle.js"
     },
