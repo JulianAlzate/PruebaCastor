@@ -1,0 +1,7 @@
+E:\Downloads\Julian\castor\Prueba\PruebaCastor\PruebaCastor\obj\Release\net6.0\PubTmp\Out\PruebaCastor.exe
+E:\Downloads\Julian\castor\Prueba\PruebaCastor\PruebaCastor\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Downloads\Julian\castor\Prueba\PruebaCastor\PruebaCastor\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Downloads\Julian\castor\Prueba\PruebaCastor\PruebaCastor\obj\Release\net6.0\PubTmp\Out\PruebaCastor.dll
+E:\Downloads\Julian\castor\Prueba\PruebaCastor\PruebaCastor\obj\Release\net6.0\PubTmp\Out\PruebaCastor.deps.json
+E:\Downloads\Julian\castor\Prueba\PruebaCastor\PruebaCastor\obj\Release\net6.0\PubTmp\Out\PruebaCastor.runtimeconfig.json
+E:\Downloads\Julian\castor\Prueba\PruebaCastor\PruebaCastor\obj\Release\net6.0\PubTmp\Out\PruebaCastor.pdb

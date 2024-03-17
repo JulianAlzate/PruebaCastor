@@ -1,0 +1,46 @@
+﻿@page
+@using PruebaCastor.Controllers
+@model BusquedaController
+@{
+    ViewData["Title"] = "Busqueda";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<script src="~/Scripts/Busqueda.js"></script>
+<script src="~/Scripts/Listar.js"></script>
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <form id="searchForm">
+                <label for="searchQuery">Buscar canción,artista o álbum:</label>
+                <input type="text" id="txtSearch" name="searchQuery" placeholder="Buscar canción,artista o álbum">                <br>
+               <br>
+                <input type="radio" id="radTodos" name="searchType" value="track,artist,album" checked>
+                <label for="todos">Todo</label><br>
+                <input type="radio" id="radTrack" name="searchType" value="track">
+                <label for="track">Musica</label><br>
+                <input type="radio" id="radArtist" name="searchType" value="artist">
+                <label for="artist">Artista</label><br>
+                <input type="radio" id="radAlbum" name="searchType" value="album">
+                <label for="album">Album</label><br>
+                <br>
+                <button type="submit" class="btn btn-primary">Buscar</button>
+            </form>
+
+        </div>
+        <div class="col">
+            @{
+                await Html.RenderPartialAsync("Listar");
+            }
+            @{
+                await Html.RenderPartialAsync("Detalle");
+            }
+
+        </div>
+
+    </div>
+</div>
+
+
+
+
