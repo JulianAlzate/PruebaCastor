@@ -5,12 +5,10 @@ const redirectUri = 'http://localhost/Castor/Index';
 const scope = 'user-read-private user-read-email';
 
 
-function loginWithSpotify() {
-  
+function loginWithSpotify() {  
     let authUrl = `${baseURLSpotify}/authorize?client_id=${clientId}&response_type=code&redirect_uri=${encodeURIComponent(redirectUri)}&scope=${encodeURIComponent(scope)}`;
     window.location.href = authUrl;
 }
-
 
 async function exchangeCodeForToken(authorizationCode) {
     const tokenUrl = `${baseURLSpotify}/api/token `;
@@ -31,7 +29,7 @@ async function exchangeCodeForToken(authorizationCode) {
     });
 
     if (!response.ok) {
-        alert('Error al intercambiar código de autorización por token de acceso');
+        MensajeError('Error al intercambiar código de autorización por token de acceso');
         throw new Error('Error al intercambiar código de autorización por token de acceso');
     }
 
@@ -41,10 +39,8 @@ async function exchangeCodeForToken(authorizationCode) {
 
 
 async function SesionActiva() {
-   
     let urlParams = new URLSearchParams(window.location.search);
     let authorizationCode = urlParams.get('code');
-
     if (authorizationCode) {
         let response = await exchangeCodeForToken(authorizationCode)
             .then(accessToken => {         
@@ -52,21 +48,17 @@ async function SesionActiva() {
                 return true;
             })
             .catch(error => {
-                alert('Error de autorización: ', error)
+                MensajeError('Error de autorización')
+                console.error(error)
                 return false;
             });
         return await response;
-    } else {
-
-    
-        let accessToken = sessionStorage.getItem('accessToken');
-
-    
+    } else {    
+        let accessToken = sessionStorage.getItem('accessToken');    
         if (!accessToken) {
-            alert('No hay un token de acceso almacenado');
+            MensajeError('No hay un token de acceso almacenado');
             return false; 
         }
-
        
         let response = await fetch('https://api.spotify.com/v1/me', {
             headers: {
@@ -77,12 +69,13 @@ async function SesionActiva() {
                 if (response.ok) {
                     return true;
                 } else {
-                    alert('El token de acceso no es válido');
+                    MensajeError('El token de acceso no es válido');
                     return false; 
                 }
             })
             .catch(error => {
-                alert('Error al verificar la sesión con Spotify:', error);
+                MensajeError('Error al verificar la sesión con Spotify');
+                console.error(error)
                 return false;
             });
         return await response;

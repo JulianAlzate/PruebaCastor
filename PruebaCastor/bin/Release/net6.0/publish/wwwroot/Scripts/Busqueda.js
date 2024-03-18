@@ -2,11 +2,12 @@
 document.addEventListener('DOMContentLoaded', function () {
     let searchForm = document.getElementById('searchForm');
     searchForm.addEventListener('submit', function (event) {
+        OcultarMensaje();
         event.preventDefault();
         let query = document.getElementById('txtSearch');
         let searchType = document.querySelector('input[name="searchType"]:checked').value;
-        if (query.value  == '') {
-            alert('El campo es obligatorio');
+        if (query.value.trim() == '') {
+            MensajeError('El campo es obligatorio');
             query.focus();
         }
         else {
@@ -15,7 +16,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     showResults(data);
                 })
                 .catch(error => {
-                    console.log('Error:', error);
+                    MensajeError('Error en la busqueda');
+                    console.error(error)
                 });
         }
       

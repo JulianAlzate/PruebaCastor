@@ -12,9 +12,10 @@
     <div class="row">
         <div class="col">
             <form id="searchForm">
-                <label for="searchQuery">Buscar canción,artista o álbum:</label>
-                <input type="text" id="txtSearch" name="searchQuery" placeholder="Buscar canción,artista o álbum">                <br>
-                <br>
+                <div class="form-group">
+                    <label for="searchQuery">Buscar: </label>
+                    <input type="text" class="form-control" id="txtSearch" name="searchQuery" placeholder="Buscar canción,artista o álbum">                <br>
+                </div>
                 <input type="radio" id="radTodos" name="searchType" value="track,artist,album" checked>
                 <label for="todos">Todo</label><br>
                 <input type="radio" id="radTrack" name="searchType" value="track">
@@ -28,6 +29,10 @@
             </form>
 
         </div>
+
+    </div>
+    <div class="row">
+
         <div class="col">
             @{
                 await Html.RenderPartialAsync("Listar");
@@ -37,6 +42,7 @@
             }
 
         </div>
+
 
     </div>
 </div>

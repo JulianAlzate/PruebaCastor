@@ -185,6 +185,10 @@
       "PackagePath": "staticwebassets\\Scripts\\Busqueda.js"
     },
     {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\Scripts\\Common\\Error.js",
+      "PackagePath": "staticwebassets\\Scripts\\Common\\Error.js"
+    },
+    {
       "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\Scripts\\Detalle.js",
       "PackagePath": "staticwebassets\\Scripts\\Detalle.js"
     },
@@ -205,6 +209,10 @@
       "PackagePath": "staticwebassets\\Scripts\\Services\\SpotifyServices.js"
     },
     {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\Scripts\\Tabla.js",
+      "PackagePath": "staticwebassets\\Scripts\\Tabla.js"
+    },
+    {
       "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -215,6 +223,1662 @@
     {
       "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\images\\sort_asc.png"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\images\\sort_both.png"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\images\\sort_desc.png"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables-1.10.24\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables-1.10.24\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\css\\autoFill.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\autoFill.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\dataTables.autoFill.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\dataTables.autoFill.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\AutoFill-2.3.5\\js\\dataTables.autoFill.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\AutoFill-2.3.5\\js\\dataTables.autoFill.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\buttons.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\common.scss",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\common.scss"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\css\\mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\css\\mixins.scss"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.flash.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.flash.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.print.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\buttons.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Buttons-1.7.0\\swf\\flashExport.swf",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Buttons-1.7.0\\swf\\flashExport.swf"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\css\\colReorder.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.dataTables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.semantic.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.semantic.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\colReorder.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\dataTables.colReorder.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\dataTables.colReorder.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\ColReorder-1.5.3\\js\\dataTables.colReorder.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\ColReorder-1.5.3\\js\\dataTables.colReorder.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\images\\sort_asc.png"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\images\\sort_both.png"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\images\\sort_desc.png"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DataTables-1.10.24\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DataTables-1.10.24\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DateTime-1.0.3\\css\\dataTables.dateTime.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DateTime-1.0.3\\css\\dataTables.dateTime.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DateTime-1.0.3\\css\\dataTables.dateTime.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DateTime-1.0.3\\css\\dataTables.dateTime.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DateTime-1.0.3\\js\\dataTables.dateTime.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DateTime-1.0.3\\js\\dataTables.dateTime.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\DateTime-1.0.3\\js\\dataTables.dateTime.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\DateTime-1.0.3\\js\\dataTables.dateTime.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\css\\fixedColumns.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\dataTables.fixedColumns.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\dataTables.fixedColumns.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\dataTables.fixedColumns.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\dataTables.fixedColumns.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.dataTables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.semanicui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedColumns-3.3.2\\js\\fixedColumns.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\css\\fixedHeader.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\dataTables.fixedHeader.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\dataTables.fixedHeader.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.dataTables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.semanicui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\FixedHeader-3.1.8\\js\\fixedHeader.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\JSZip-2.5.0\\jszip.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\JSZip-2.5.0\\jszip.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\JSZip-2.5.0\\jszip.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\JSZip-2.5.0\\jszip.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\css\\keyTable.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\dataTables.keyTable.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\dataTables.keyTable.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.dataTables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.semanicui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\KeyTable-2.6.1\\js\\keyTable.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\css\\responsive.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\js\\dataTables.responsive.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\js\\dataTables.responsive.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Responsive-2.2.7\\js\\responsive.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\css\\rowGroup.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\dataTables.rowGroup.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\dataTables.rowGroup.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\dataTables.rowGroup.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\dataTables.rowGroup.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.dataTables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.semanicui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowGroup-1.1.2\\js\\rowGroup.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\css\\rowReorder.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\dataTables.rowReorder.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\dataTables.rowReorder.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\dataTables.rowReorder.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\dataTables.rowReorder.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.dataTables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\RowReorder-1.2.7\\js\\rowReorder.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\css\\scroller.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\dataTables.scroller.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\dataTables.scroller.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\dataTables.scroller.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.dataTables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.semanicui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Scroller-2.0.3\\js\\scroller.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\css\\searchBuilder.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\dataTables.searchBuilder.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\dataTables.searchBuilder.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\dataTables.searchBuilder.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\dataTables.searchBuilder.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.dataTables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.semanicui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchBuilder-1.0.1\\js\\searchBuilder.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\css\\searchPanes.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\dataTables.searchPanes.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\dataTables.searchPanes.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\dataTables.searchPanes.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\dataTables.searchPanes.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.dataTables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.semanicui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.semanicui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\SearchPanes-1.2.2\\js\\searchPanes.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\css\\select.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\css\\select.bootstrap.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\css\\select.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\css\\select.bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\css\\select.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\css\\select.bootstrap4.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\css\\select.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\css\\select.bootstrap4.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\css\\select.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\css\\select.dataTables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\css\\select.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\css\\select.dataTables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\css\\select.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\css\\select.foundation.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\css\\select.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\css\\select.foundation.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\css\\select.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\css\\select.jqueryui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\css\\select.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\css\\select.jqueryui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\css\\select.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\css\\select.semanticui.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\css\\select.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\css\\select.semanticui.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\dataTables.select.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\dataTables.select.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\dataTables.select.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\select.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\select.bootstrap.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\select.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\select.bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\select.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\select.bootstrap4.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\select.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\select.bootstrap4.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\select.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\select.dataTables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\select.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\select.foundation.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\select.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\select.foundation.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\select.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\select.jqueryui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\select.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\select.jqueryui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\select.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\select.semanticui.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\Select-1.3.3\\js\\select.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\Select-1.3.3\\js\\select.semanticui.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\datatables.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\pdfmake-0.1.36\\pdfmake.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\pdfmake-0.1.36\\pdfmake.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\pdfmake-0.1.36\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\pdfmake-0.1.36\\pdfmake.min.js"
+    },
+    {
+      "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\DataTables\\pdfmake-0.1.36\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\lib\\DataTables\\pdfmake-0.1.36\\vfs_fonts.js"
     },
     {
       "Id": "E:\\Downloads\\Julian\\castor\\Prueba\\PruebaCastor\\PruebaCastor\\wwwroot\\lib\\bootstrap\\LICENSE",

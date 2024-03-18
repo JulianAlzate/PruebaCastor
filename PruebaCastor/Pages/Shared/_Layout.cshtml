@@ -28,6 +28,9 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Busqueda">Buscar</a>
                         </li>
+                        <li class="nav-item">
+                            <button id="btninicio" style="display: none" class="btn btn-primary" onclick="loginWithSpotify()">Iniciar sesión con Spotify</button>
+                         </li>
                     </ul>
                 </div>
             </div>
@@ -35,6 +38,9 @@
     </header>
     <div class="container">
         <main role="main" class="pb-3">
+            @{
+                await Html.RenderPartialAsync("Error");
+            }
             @RenderBody()
         </main>
     </div>
@@ -45,14 +51,30 @@
         </div>
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    <script src="~/Scripts/Login.js"></script>
     <script src="~/Scripts/Services/AuteticationServices.js"></script>
     <script src="~/Scripts/Services/SpotifyServices.js"></script>
+    <script src="~/Scripts/Common/Error.js"></script>
     <script src="~/Scripts/Detalle.js"></script>
-    <script src="~/Scripts/DTO/Album.js"></script>
+    <script src="~/Scripts/Tabla.js"></script>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <!--#region Datatable  -->
+    <script src="~/lib/DataTables/DataTables-1.10.24/js/jquery.dataTables.js"></script>
+    <script src="~/lib/DataTables/DataTables-1.10.24/js/dataTables.bootstrap4.js"></script>
+    <script src="~/lib/DataTables/FixedHeader-3.1.8/js/dataTables.fixedHeader.js"></script>
+    <script src="~/lib/DataTables/FixedColumns-3.3.2/js/dataTables.fixedColumns.js"></script>
+    <script src="~/lib/DataTables/Buttons-1.7.0/js/dataTables.buttons.js"></script>
+    <script src="~/lib/DataTables/JSZip-2.5.0/jszip.js"></script>
+    <script src="~/lib/DataTables/pdfmake-0.1.36/pdfmake.js"></script>
+    <script src="~/lib/DataTables/pdfmake-0.1.36/vfs_fonts.js"></script>
+    <script src="~/lib/DataTables/Buttons-1.7.0/js/buttons.html5.js"></script>
+    <script src="~/lib/DataTables/Buttons-1.7.0/js/buttons.print.js"></script>
+    <!--#endregion Datatable-->
+
     @await RenderSectionAsync("Scripts", required: false)
 
 </body>
