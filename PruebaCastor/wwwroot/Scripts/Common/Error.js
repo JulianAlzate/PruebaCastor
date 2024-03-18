@@ -1,15 +1,7 @@
 ﻿function MensajeError(msg) {
     MostrarMensaje("alert-danger", "Error!", msg)
 }
-function MensajeAdvertencia(msg) {
-    MostrarMensaje("alert-warning", "Advertencia!", msg)
-}
-function MensajeInfo(msg) {
-    MostrarMensaje("alert-info", "Importante!", msg)
-}
-function MensajeExito(msg) {
-    MostrarMensaje("alert-success", "Éxito!", msg)
-}
+
 
 function MostrarMensaje(classMsg, titleMsj, msg) {
     var message = document.getElementById("mensaje");

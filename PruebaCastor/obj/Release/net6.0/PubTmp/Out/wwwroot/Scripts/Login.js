@@ -1,7 +1,6 @@
 ﻿document.addEventListener('DOMContentLoaded', function () {
     SesionActiva().then(resultado => {    
         if (!resultado) {
-            //loginWithSpotify();
             var mensaje = document.getElementById("btninicio");
             mensaje.style.display = "block";
         } else {

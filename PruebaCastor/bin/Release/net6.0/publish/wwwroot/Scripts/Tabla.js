@@ -42,10 +42,3 @@ function TablaJQDT(idtabla, idcolumOrden, tipoOrden, arrayColumn, bscrollx) {
     return table;
 }
 
-//function OrdenarTabla(objInputS, table) {
-//    var valor = objInputS.value;
-//    var ColumnOrder = objInputS.attributes["data-ColumnSearch"].value;
-//    if (table.column(ColumnOrder).search() !== valor) {
-//        table.column(ColumnOrder).search(valor).draw();
-//    }
-//}
